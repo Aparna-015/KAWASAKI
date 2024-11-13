@@ -1,0 +1,9 @@
+body{
+    background-image: url(/images/parallaxbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.slider-container {
+    transition: transform 0.5s ease-out;
+  }
